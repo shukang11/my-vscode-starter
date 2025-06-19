@@ -37,6 +37,8 @@ Markdown H2 标题 (`## 任务清单 (Tasks)`)。
 - **关联报告条目 (Related Report Entry)**: (String, Optional) 链接到 `status-report.md` 中相关的日志条目ID，例如 "SR-TASK-001A"。
 
 *状态说明将作为表格下方的斜体文字。*
+
+!!! 你无权删除或修改此文档的 YAML Frontmatter !!!
 -->
 
 

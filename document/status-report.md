@@ -58,4 +58,6 @@ Markdown H2 标题 (`## 阻塞与风险 (Blockers & Risks)`)。
 Markdown H2 标题 (`## 经验与反思 (Learnings & Reflections)`)。
 汇总项目过程中的重要经验教训和反思总结，特别是那些可以指导未来工作的洞见。
 使用 Markdown 列表记录，鼓励深入分析和提炼。
+
+!!! 你无权删除或修改此文档的 YAML Frontmatter !!!
 -->
